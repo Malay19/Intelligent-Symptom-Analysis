@@ -80,7 +80,7 @@ streamlit run disease_prediction_app.py
 ```
 👉 [Colab Streamlit tutorial](https://www.youtube.com/watch?v=ZZsyxIWdCko)
 
-### 📈 Methodology
+## 📈 Methodology
 - Text Preprocessing: Regex cleaning, spaCy/NLTK tokenization, stop-word removal, lemmatization.
 - Feature Vectorization: TF-IDF (1–2 grams, 5,000 features) weighted by symptom severity.
 - Modeling:
@@ -126,7 +126,7 @@ streamlit run disease_prediction_app.py
 ## 📜 License
 This project is licensed under the MIT License.
 
-### 📧 **Contact & Contributions**
+## 📧 **Contact & Contributions**
 Feel free to contribute by submitting a pull request or reporting issues!
 
 💡 **Author:** Malay Patel 
